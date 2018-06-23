@@ -1,0 +1,21 @@
+.intro{
+  display: inline-block;
+  width: 96%;
+  margin: 2%;
+  padding: 0px;
+}
+.pargph{
+  display: inline-block;
+  width:70%;
+  margin-top: 6%;
+
+}
+img{
+  margin: 2%;
+  margin-bottom: 5%;
+  width: 50vh;
+  height: 50vh;
+}
+
+
+
